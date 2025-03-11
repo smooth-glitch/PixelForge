@@ -66,7 +66,7 @@ The goal of this project is to provide a comprehensive tool for image processing
 
 ## 🖥️ **User Interface**
 - **Modern Design**: Built using **Swing** and **FlatLaf** for a sleek and professional look.
-- - **Tabbed Interface**: Manage multiple images and operations in separate tabs.
+- **Tabbed Interface**: Manage multiple images and operations in separate tabs.
 - **Undo/Redo**: Stack-based undo/redo functionality for seamless editing.
 - **Splash Screen**: A welcoming splash screen for better user experience.
 - **Default Image Placeholder**: Display a default image when no image is uploaded.
@@ -80,7 +80,7 @@ To set up this project on your local system, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/image-processing-app.git
+   git clone https://github.com/smooth-glitch/pixelForge.git
    cd image-processing-app
    ```
 
@@ -158,5 +158,3 @@ If you find this project useful, consider supporting me:
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
 
 ---
-
-This README is concise, visually appealing, and highlights all the key aspects of your project. Let me know if you need further adjustments!
