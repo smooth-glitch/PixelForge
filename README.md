@@ -148,6 +148,6 @@ This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LIC
 For any questions or feedback, feel free to reach out:
 
 - **Email**: arjunsridhar445@gmail.com
-- **GitHub**: [yourusername](https://github.com/smooth-glitch)
+- **GitHub**: [smooth-glitch](https://github.com/smooth-glitch)
 
 ---
