@@ -147,15 +147,7 @@ This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LIC
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
----
-
-## ☕ **Support Me**
-
-If you find this project useful, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+- **Email**: arjunsridhar445@gmail.com
+- **GitHub**: [yourusername](https://github.com/smooth-glitch)
 
 ---
