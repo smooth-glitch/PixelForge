@@ -116,13 +116,14 @@ image-processing-app/
 ## 📸 **Screenshots**
 
 ### **Main Interface**
-![Main Interface](https://via.placeholder.com/600x400.png?text=Main+Interface)
+![Main Interface](image_processing/images/Main_interface.png)
 
 ### **Histogram Equalization**
-![Histogram Equalization](https://via.placeholder.com/600x400.png?text=Histogram+Equalization)
+![Histogram Equalization](image_processing/images/Histogram.png)
 
 ### **Edge Detection (Sobel Filter)**
-![Edge Detection](https://via.placeholder.com/600x400.png?text=Edge+Detection)
+![Edge Detection](image_processing/images/SobelX.png)
+![Edge Detection](image_processing/images/SobelY.png)
 
 ---
 
