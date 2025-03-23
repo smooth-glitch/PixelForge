@@ -101,14 +101,7 @@ To set up this project on your local system, follow these steps:
 ```
 image-processing-app/
 ├── icons/                  # Icons for menu items
-├── Lab1.java               # Main application file
-├── Lab2.java               # Rescaling and shifting logic
-├── Lab4.java               # Transformations (log, power-law, bit-plane slicing, random LUT)
-├── Lab5.java               # Histogram operations
-├── Lab6.java               # Convolution filters
-├── Lab7.java               # Noise addition and filtering
-├── Lab8.java               # Thresholding
-└── README.md               # Project documentation
+├── coursework.java               # Main application file
 ```
 
 ---
