@@ -81,14 +81,14 @@ To set up this project on your local system, follow these steps:
 
    ```bash
    git clone https://github.com/smooth-glitch/pixelForge.git
-   cd image-processing-app
+   cd image_processing
    ```
 
 2. **Compile and Run**
 
    ```bash
-   javac Lab1.java
-   java Lab1
+   javac coursework.java
+   java coursework
    ```
 
 3. **Access the Application**
